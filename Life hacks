@@ -1,7 +1,7 @@
 
 <html>
   <title>My Schedule</title>
-  <body bgcolor=purple>
+  <body> bgcolor=purple>
     <table border=1px bgcolor=pink>
       <caption>My Fall 2018-19 Class Schedule</caption>
       <tr>
